@@ -1,0 +1,38 @@
+body{
+ color: white;
+ background: black;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+     list-style-type: none;
+     align-items: center;
+     padding: 16px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+img{
+    width: 150px;
+    height: 150px;
+border-radius: 50%;
+border: 5px solid rgb(83, 2, 131);
+cursor: pointer;
+}
+.center{
+    text-align: center;
+}
+.titulo{
+    color: rgb(165, 13, 211);
+}
+.h2{
+    color: violet;
+}
+.link{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
